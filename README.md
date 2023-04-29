@@ -2,7 +2,7 @@
 
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;Downloading a Model &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AUTOMATIC1111+Downloading a Model
-  <br><a href="https://colab.research.google.com/github/Toshik-One/Downloading_a_Model/blob/main/Downloading_a_Model.ipynb"><img src='https://github.com/Toshik-One/Downloading_a_Model/blob/main/files/1.png'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/github/Toshik-One/Downloading_a_Model/blob/main/fast_stable_diffusion_Downloading_a_Model.ipynb"><img src='https://github.com/Toshik-One/Downloading_a_Model/blob/main/files/2.png'></a>
+  <br><a href="https://colab.research.google.com/github/Toshik-One/Downloading_a_Model/blob/main/Downloading_a_Model.ipynb"><img src='https://github.com/Toshik-One/Downloading_a_Model/blob/main/files/1.png'></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/github/Toshik-One/Downloading_a_Model/blob/main/AUTOMATIC1111+Downloading_a_Model.ipynb"><img src='https://github.com/Toshik-One/Downloading_a_Model/blob/main/files/2.png'></a>
 
  
 
