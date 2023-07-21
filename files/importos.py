@@ -1,7 +1,7 @@
 import os
 import logging
 import subprocess
-!pip install pyngrok
+
 
 class Dot(dict):
     __getattr__ = dict.get
