@@ -1,3 +1,4 @@
+importos.py
 import os
 import logging
 import subprocess
@@ -101,17 +102,8 @@ def run_setup():
     set_environment()
     install_repositories()
 
-# Uбрать предупреждение о перемещении файла конфигурации ngrok
-def remove_ngrok_warning():
-    xdg_path = "/root/.config/ngrok/ngrok.yml"
-    legacy_path = "/root/.ngrok2/ngrok.yml"
-    if not os.path.exists(xdg_path) and os.path.exists(legacy_path):
-        os.makedirs(os.path.dirname(xdg_path), exist_ok=True)
-        os.rename(legacy_path, xdg_path)
-
 # Установка пакета pyngrok
 subprocess.run(['pip', 'install', 'pyngrok'])
 
 if __name__ == "__main__":
-    remove_ngrok_warning()
     run_setup()
