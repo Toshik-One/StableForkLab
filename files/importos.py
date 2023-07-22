@@ -102,5 +102,8 @@ def run_setup():
     set_environment()
     install_repositories()
 
+# Установка пакета pyngrok
+subprocess.run(['pip', 'install', 'pyngrok'])
+
 if __name__ == "__main__":
     run_setup()
