@@ -1,4 +1,4 @@
-pip install pyngrok
+importos.py
 import os
 import logging
 import subprocess
