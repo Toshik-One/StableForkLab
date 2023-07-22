@@ -1,7 +1,7 @@
+!pip install pyngrok
 import os
 import logging
 import subprocess
-from pyngrok import ngrok
 
 
 class Dot(dict): # dot notation access to dictionary attributes
@@ -106,7 +106,5 @@ if __name__ == "__main__":
     # Установка модуля ngrok
     subprocess.run(['pip', 'install', 'pyngrok'])
 
-    # Импорт модуля ngrok
-    from pyngrok import ngrok
 
     run_setup()
