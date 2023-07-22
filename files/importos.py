@@ -106,4 +106,7 @@ if __name__ == "__main__":
     # Установка модуля ngrok
     subprocess.run(['pip', 'install', 'pyngrok'])
 
+    # Импорт модуля ngrok
+    from pyngrok import ngrok
+
     run_setup()
