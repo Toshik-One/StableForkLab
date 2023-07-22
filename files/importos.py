@@ -1,4 +1,4 @@
-!pip install pyngrok
+pip install pyngrok
 import os
 import logging
 import subprocess
