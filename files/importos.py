@@ -103,8 +103,4 @@ def run_setup():
     install_repositories()
 
 if __name__ == "__main__":
-    # Установка модуля ngrok
-    subprocess.run(['pip', 'install', 'pyngrok'])
-
-
     run_setup()
