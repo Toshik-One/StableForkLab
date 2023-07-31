@@ -1,3 +1,0 @@
-https://huggingface.co/TheLastBen/dependencies/resolve/main/sd_mrep.tar.zst
-https://huggingface.co/TheLastBen/dependencies/resolve/main/gcolabdeps.tar.zst
-https://github.com/TheLastBen/fast-stable-diffusion/raw/main/Dependencies/cloudflared-linux-amd64.deb
