@@ -6,9 +6,6 @@ from IPython.utils import capture
 from IPython.display import clear_output
 from tqdm import tqdm
 
-response = requests.get('https://raw.githubusercontent.com/Toshik-One/Downloading_a_Model/main/ninja2.py')
-exec(response.text)
-
 print('[1;32mУстановка/Обновление AUTOMATIC1111 repo...')
 
 with capture.capture_output() as cap:
