@@ -1,4 +1,4 @@
-blasphemy = "stable-diffusion-webui"
+blasphemy = "StableForkLab"
 contrlnet = "sd-webui-controlnet"
 import os
 if os.path.exists("/content/gdrive"):
