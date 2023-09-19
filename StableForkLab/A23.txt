@@ -1,0 +1,8 @@
+https://huggingface.co/Toshik-One/dependencies/resolve/main/zstd_1.4.4%2Bdfsg-3ubuntu0.1_amd64.deb
+https://huggingface.co/Toshik-One/dependencies/resolve/main/stabl_mrep.tar.zst
+https://huggingface.co/Toshik-One/dependencies/resolve/main/gcolabdeps.tar.zst
+https://huggingface.co/Toshik-One/dependencies/resolve/main/cloudflared-linux-amd64.deb
+https://huggingface.co/Toshik-One/dependencies/resolve/main/libc-ares2_1.15.0-1ubuntu0.2_amd64.deb
+https://huggingface.co/Toshik-One/dependencies/resolve/main/libzaria2-0_1.35.0-1build1_amd64.deb
+https://huggingface.co/Toshik-One/dependencies/resolve/main/man-db_2.9.1-1_amd64.deb
+https://huggingface.co/Toshik-One/dependencies/resolve/main/zaria2_1.35.0-1build1_amd64.deb
